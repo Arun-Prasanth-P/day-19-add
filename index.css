@@ -1,0 +1,19 @@
+.trend{
+    background-color:#C94460;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color:#CB8BC9;
+}
+
+.popular{
+    color:white;
+    text-align:center;
+    font-size: 18px;
+}
+
+.main{
+    font-size: 32px;
+    color: white;
+}
